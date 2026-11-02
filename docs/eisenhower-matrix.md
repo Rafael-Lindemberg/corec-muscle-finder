@@ -21,9 +21,7 @@
 
 ## Delete - Cut It
 
-- Automatic live machine occupancy detection.
 - Favorites, workout logging, and equipment availability filters.
 - Social profiles, followers, and workout sharing.
 - AI-generated personalized workout plans.
-- Payments and subscription features.
 
