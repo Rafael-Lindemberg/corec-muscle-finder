@@ -1,0 +1,98 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="L0XlN4eUxS4Qm-oP4zm5" name="Page-1">
+    <mxGraphModel dx="846" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FTXAGqb_TaM2qqx-SIGX-16" edge="1" parent="1" source="FTXAGqb_TaM2qqx-SIGX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="FTXAGqb_TaM2qqx-SIGX-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTXAGqb_TaM2qqx-SIGX-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#5035FF);" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Select muscle group&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="167.5" y="237.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FTXAGqb_TaM2qqx-SIGX-29" edge="1" parent="1" source="FTXAGqb_TaM2qqx-SIGX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="FTXAGqb_TaM2qqx-SIGX-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTXAGqb_TaM2qqx-SIGX-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#5035FF);" value="Find matching machines" vertex="1">
+          <mxGeometry height="60" width="120" x="167.5" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="FTXAGqb_TaM2qqx-SIGX-15" edge="1" parent="1" source="FTXAGqb_TaM2qqx-SIGX-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fillColor=light-dark(#FFFFFF,#5035FF);" target="FTXAGqb_TaM2qqx-SIGX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTXAGqb_TaM2qqx-SIGX-30" edge="1" parent="1" source="FTXAGqb_TaM2qqx-SIGX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="FTXAGqb_TaM2qqx-SIGX-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTXAGqb_TaM2qqx-SIGX-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=light-dark(#FFFFFF,#5035FF);" value="Show machines summary / location" vertex="1">
+          <mxGeometry height="50" width="120" x="167.5" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="FTXAGqb_TaM2qqx-SIGX-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=light-dark(#FFFFFF,#5035FF);" value="Show Exercises for Selected Machine and Muscle" vertex="1">
+          <mxGeometry height="60" width="120" x="167.5" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="FTXAGqb_TaM2qqx-SIGX-52" edge="1" parent="1" source="FTXAGqb_TaM2qqx-SIGX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="FTXAGqb_TaM2qqx-SIGX-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTXAGqb_TaM2qqx-SIGX-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=light-dark(#FFFFFF,#5035FF);" value="Select machine" vertex="1">
+          <mxGeometry height="30" width="120" x="167.5" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="FTXAGqb_TaM2qqx-SIGX-41" edge="1" parent="1" source="FTXAGqb_TaM2qqx-SIGX-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#C6FFB2;" target="FTXAGqb_TaM2qqx-SIGX-7" value="">
+          <mxGeometry relative="1" x="-0.3576" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="232.5" />
+              <mxPoint x="320" y="360" />
+            </Array>
+            <mxPoint x="305" y="392.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTXAGqb_TaM2qqx-SIGX-43" edge="1" parent="1" source="FTXAGqb_TaM2qqx-SIGX-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="525" y="310" />
+              <mxPoint x="360" y="310" />
+              <mxPoint x="360" y="440" />
+            </Array>
+            <mxPoint x="290" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTXAGqb_TaM2qqx-SIGX-45" edge="1" parent="1" source="FTXAGqb_TaM2qqx-SIGX-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="FTXAGqb_TaM2qqx-SIGX-12" value="">
+          <mxGeometry relative="1" x="0.0322" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="580" />
+              <mxPoint x="287.5" y="580" />
+            </Array>
+            <mxPoint x="635" y="252.4999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTXAGqb_TaM2qqx-SIGX-34" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#FFFFFF,#FF0F3F);" value="Exercise Data&lt;div&gt;JSON&lt;br&gt;machines / exercises&lt;/div&gt;" vertex="1">
+          <mxGeometry height="85" width="130" x="460" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="FTXAGqb_TaM2qqx-SIGX-37" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#FFFFFF,#5035FF);" value="Open app" vertex="1">
+          <mxGeometry height="40" width="97.5" x="178.75" y="149" as="geometry" />
+        </mxCell>
+        <mxCell id="FTXAGqb_TaM2qqx-SIGX-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Open menu&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="150" y="198" as="geometry" />
+        </mxCell>
+        <mxCell id="FTXAGqb_TaM2qqx-SIGX-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Selected muscle&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="130" y="284" as="geometry" />
+        </mxCell>
+        <mxCell id="FTXAGqb_TaM2qqx-SIGX-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Matching machines&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="110" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="FTXAGqb_TaM2qqx-SIGX-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Choose a machine&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="110" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="FTXAGqb_TaM2qqx-SIGX-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Selected machine and muscle&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="97.5" x="126.25" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="FTXAGqb_TaM2qqx-SIGX-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Machine and muscle data&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="165" x="310" y="207.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FTXAGqb_TaM2qqx-SIGX-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Summaries and locations&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="165" x="360" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="FTXAGqb_TaM2qqx-SIGX-56" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Exercise details&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="155" x="380" y="550" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

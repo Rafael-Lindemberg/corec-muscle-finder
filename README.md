@@ -19,7 +19,6 @@ Users will check equipment availability themselves. The app will not track live 
 - Add exercise pictures and more detailed instructions.
 - Add a visual gym map showing machine locations.
 - Explore a phone-friendly version.
-- Explore a phone-friendly version.
 
 ## Planned tech stack
 - Java: application logic.
